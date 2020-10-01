@@ -22,7 +22,6 @@ void SieveOfEratosthenes(long long unsigned int Input)
 
 int main()
 {
-    //int in which will the number that user enters will be stored
     //long long unsigned int for bigger number capacity
     long long unsigned int Input;
     cout << "Enter a number to check : " << endl;
